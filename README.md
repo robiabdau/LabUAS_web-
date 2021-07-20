@@ -30,7 +30,7 @@ Berikut tampilan data yang sudah di ubah:
 
 ![image](https://user-images.githubusercontent.com/81896427/126342847-aa70bccc-4c00-4a0d-a805-7e4df281a1ea.png)
 
-**Tampilan Hapus Data**
+**4. Tampilan Hapus Data**
 
 Pada button Hapus pada saat di klik akan muncul notif sebagai berikut:
 
@@ -40,11 +40,11 @@ dan data pun berjasil di hapus.
 
 ![image](https://user-images.githubusercontent.com/81896427/126343206-a8278310-9bbc-4e01-bf48-6c88bdfa1d6c.png)
 
-**Tampilan Transaksi**
+**5. Tampilan Transaksi**
 
 ![image](https://user-images.githubusercontent.com/81896427/126343450-51af37bd-9fe1-48f4-a59d-a71f80aa911d.png)
 
-**Tampilan Tambah Transaksi Iuran**
+**6. Tampilan Tambah Transaksi Iuran**
 
 ![image](https://user-images.githubusercontent.com/81896427/126343917-930f265c-c675-483d-8d41-af4502310b18.png)
 

@@ -6,14 +6,13 @@ Kelas     : TI.19.B1
 M. Kuliah : Pemograman Web
 Dosen     : Agung Nugroho,S.Kom.,M.Kom
 ```
-<br>
 **1. Tampilan Utama**
 
   ![image](https://user-images.githubusercontent.com/81896427/126341368-c78f6473-1097-49f9-b8e1-5de972b9c2c7.png)
 
   Di sini saya membuat langsung ke data warga, tidak ada halaman home/beranda.
 
-**2. Tampilan Tambah Data Warga
+**2. Tampilan Tambah Data Warga**
 
 ![image](https://user-images.githubusercontent.com/81896427/126342042-91c3d4f4-1217-4358-a029-6e257f1621fe.png)
 
